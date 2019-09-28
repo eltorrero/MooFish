@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title: MooFish
+## Notes: Count fishs caught
+## Author: eltorrero
+## Version: 20190924
+
+MooFish.lua
